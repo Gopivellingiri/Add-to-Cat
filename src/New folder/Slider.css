@@ -1,0 +1,19 @@
+.slider {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  height: 300px;
+  background-color: #1E2022;
+  text-align: center;
+  color: #fff;
+}
+.slider h1 {
+  font-size:60px;
+
+}
+
+.slider2 {
+  display: none;
+}
+

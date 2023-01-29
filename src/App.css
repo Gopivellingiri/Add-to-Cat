@@ -1,0 +1,24 @@
+.items {
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  padding: 10px;
+  top:20px;
+  right: 20px;
+  background-color:#f9ca24;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 5px;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+.items span {
+  font-size: 30px;
+  margin-right: 10px;
+  align-content: center;
+}
+
+
